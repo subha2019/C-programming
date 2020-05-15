@@ -1,2 +1,2 @@
-## Initial Commit
-    -TO understand SCM and Version Control
+##Initial Commit
+-TO understand SCM and Version Control
